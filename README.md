@@ -5,5 +5,7 @@
 - Studying
   - AfterEffects
   - Blender
-  - Python
   - openSCAD
+  - TypeScript
+  - Rust
+  - Python
