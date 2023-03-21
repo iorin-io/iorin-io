@@ -4,6 +4,8 @@
 - Interested in nonverbal media expression
 - Studying
   - AfterEffects
+    - MotionGraphics
+    - VFX
   - Blender
   - openSCAD
   - TypeScript
