@@ -1,5 +1,5 @@
 # Iori Takahashi
-- B1 | University of Tsukuba mast22
+- B2 | University of Tsukuba mast22
   - [jsys22-23](https://github.com/sohosai)
 - Interested in nonverbal media expression
 - Studying
@@ -9,5 +9,6 @@
   - Blender
   - openSCAD
   - TypeScript
+  - React
   - Rust
   - Python
