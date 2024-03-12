@@ -10,4 +10,5 @@
   - TypeScript
   - React
   - Rust
+  - SwiftUI
   - Python
