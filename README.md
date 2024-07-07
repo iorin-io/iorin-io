@@ -6,3 +6,7 @@
   - React
   - Rust
   - SwiftUI
+
+- Working at Kaizen Platform (2024/06~)
+
+- IPA Mitou IT 2024（2024/06~）
