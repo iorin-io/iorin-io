@@ -2,9 +2,8 @@
 - B3 | University of Tsukuba mast22
   - [jsys22-23](https://github.com/sohosai)
 - Studying
-  - TypeScript
-  - React
-  - Rust
+  - Next.js
+  - Axum
   - SwiftUI
 
 - Working at Kaizen Platform (2024/06~)
