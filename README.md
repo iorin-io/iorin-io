@@ -10,3 +10,4 @@
 - Working at TAIAN Inc. (2024/11~)
 
 - IPA Mitou IT 2024（2024/06~）
+- Digital  Nature Group (2024/12~)
