@@ -1,4 +1,7 @@
 # Iori Takahashi
+
+Hi👋
+
 - B3 | University of Tsukuba
   - School of Informatics, College of Media Arts, Science and Technology (MAST22)
 
