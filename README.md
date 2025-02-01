@@ -16,5 +16,8 @@
 
 - Working at TAIAN Inc. (2024/11~)
 
-- IPA Mitou IT 2024（2024/06~）
-- Digital  Nature Group (2024/12~)
+- [IPA Mitou IT 2024](https://www.ipa.go.jp/jinzai/mitou/it/2024/gaiyou-tk-3.html)（2024/06~）
+
+- [Digital Nature Group](https://digitalnature.slis.tsukuba.ac.jp/) (2024/12~)
+
+  - [GitHub Organization](https://github.com/DigitalNatureGroup)
