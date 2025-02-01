@@ -3,6 +3,7 @@
   - [jsys22-23](https://github.com/sohosai)
 - Studying
   - Next.js
+  - Hono
   - Axum
   - SwiftUI
 
