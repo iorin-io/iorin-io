@@ -14,7 +14,7 @@
   
 - Working at Kaizen Platform Inc. (2024/06~)
 
-- Working at TAIAN Inc. (2024/11~)
+- Worked at TAIAN Inc. (2024/11~2025/04)
 
 - [IPA Mitou IT 2024](https://www.ipa.go.jp/jinzai/mitou/it/2024/gaiyou-tk-3.html)（2024/06~）
 
