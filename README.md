@@ -1,4 +1,4 @@
-# Iori Takahashi | 髙𣘺伊織
+# Iori Takahashi
 
 - B3 | Student of University of Tsukuba
   - School of Informatics, College of Media Arts, Science and Technology (MAST22 AC)
