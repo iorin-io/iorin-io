@@ -3,6 +3,8 @@
 - B4 | Student of University of Tsukuba
   - School of Informatics, College of Media Arts, Science and Technology (MAST22 AC)
 
+- FY2024 MITOU IT Program - Super Creator
+
 - Studying
   - Next.js
   - Hono
