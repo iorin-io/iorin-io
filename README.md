@@ -5,12 +5,6 @@
 
 - FY2024 MITOU IT Program - Super Creator
 
-- Studying
-  - Next.js
-  - Hono
-  - Axum
-  - SwiftUI
-
 - Worked at The Executive Committee of the School Festival, Information System and Media System Department [jsys22-23](https://github.com/sohosai)  (2022/06~2023/12)
   - Chief of Information and Media Systems Department (2023/01~2023/12)
   
