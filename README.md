@@ -1,6 +1,8 @@
 # Iori Takahashi
 
-- B4 | Student of University of Tsukuba
+- Master's Student | University of Tsukuba
+  - Informatics, Graduate School of Comprehensive Human Sciences
+- Graduated from University of Tsukuba
   - School of Informatics, College of Media Arts, Science and Technology (MAST22 AC)
 
 - FY2024 MITOU IT Program - Super Creator
